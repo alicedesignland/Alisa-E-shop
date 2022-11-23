@@ -1,0 +1,20 @@
+.checkout-button {
+    border: 1px !important;
+    padding: 10px !important;
+    border-radius: 5px;
+    background-color: #000000;
+    color: #fff;
+
+}
+
+.wrapper-payment {
+    margin: 100px;
+    display: grid;
+    
+}
+
+
+table {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}

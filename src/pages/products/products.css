@@ -1,0 +1,84 @@
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #ffffff !important;
+    margin: auto;
+    display: flex;
+  
+    font-weight: 600;
+    width: 50%;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .bodyproducts {
+    margin-left: 2%;
+  }
+  
+  
+  .productspage {
+    margin: 30px !important;
+  }
+  
+  .btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #8784ff;
+    --bs-btn-border-color: #8784ff;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #d097c3;
+    --bs-btn-hover-border-color: #d097c3;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #d097c3;
+    --bs-btn-active-border-color: #d097c3;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #d097c3;
+    --bs-btn-disabled-border-color: #d097c3;
+  }
+  
+  
+  .buttoni1 {
+    padding-top: 6px;
+    padding-right: 16px;
+    padding-bottom: 6px;
+    padding-left: 16px;
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nameproduct {
+    font-weight: 600;
+    padding-top: 6px;
+  
+    padding-bottom: 6px;
+  }
+  
+  .fs-2 {
+    font-size: 18px !important;
+    font-weight: 600;
+  }
+  
+  .card {
+    --bs-card-border-color: none;
+  }
+
+  .btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #000000;
+    --bs-btn-border-color: #000000;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #000000;
+    --bs-btn-hover-border-color: #000000;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #000000;
+    --bs-btn-active-border-color: #000000;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #000000;
+    --bs-btn-disabled-border-color: #000000;
+  }
